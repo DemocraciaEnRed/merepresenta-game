@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/merepresenta-game/static/css/main.c4afe06d.chunk.css",
-    "main.js": "/merepresenta-game/static/js/main.8a0c8b5b.chunk.js",
-    "main.js.map": "/merepresenta-game/static/js/main.8a0c8b5b.chunk.js.map",
-    "runtime-main.js": "/merepresenta-game/static/js/runtime-main.1bb9f892.js",
-    "runtime-main.js.map": "/merepresenta-game/static/js/runtime-main.1bb9f892.js.map",
+    "main.css": "/merepresenta-game/static/css/main.e200cd6a.chunk.css",
+    "main.js": "/merepresenta-game/static/js/main.a87669a8.chunk.js",
+    "main.js.map": "/merepresenta-game/static/js/main.a87669a8.chunk.js.map",
+    "runtime-main.js": "/merepresenta-game/static/js/runtime-main.bfe3c583.js",
+    "runtime-main.js.map": "/merepresenta-game/static/js/runtime-main.bfe3c583.js.map",
     "static/css/2.f2512455.chunk.css": "/merepresenta-game/static/css/2.f2512455.chunk.css",
-    "static/js/2.b3272fdf.chunk.js": "/merepresenta-game/static/js/2.b3272fdf.chunk.js",
-    "static/js/2.b3272fdf.chunk.js.map": "/merepresenta-game/static/js/2.b3272fdf.chunk.js.map",
-    "static/js/3.4e13812c.chunk.js": "/merepresenta-game/static/js/3.4e13812c.chunk.js",
-    "static/js/3.4e13812c.chunk.js.map": "/merepresenta-game/static/js/3.4e13812c.chunk.js.map",
+    "static/js/2.27188c21.chunk.js": "/merepresenta-game/static/js/2.27188c21.chunk.js",
+    "static/js/2.27188c21.chunk.js.map": "/merepresenta-game/static/js/2.27188c21.chunk.js.map",
+    "static/js/3.72dc203b.chunk.js": "/merepresenta-game/static/js/3.72dc203b.chunk.js",
+    "static/js/3.72dc203b.chunk.js.map": "/merepresenta-game/static/js/3.72dc203b.chunk.js.map",
     "index.html": "/merepresenta-game/index.html",
     "static/css/2.f2512455.chunk.css.map": "/merepresenta-game/static/css/2.f2512455.chunk.css.map",
-    "static/css/main.c4afe06d.chunk.css.map": "/merepresenta-game/static/css/main.c4afe06d.chunk.css.map",
-    "static/js/2.b3272fdf.chunk.js.LICENSE.txt": "/merepresenta-game/static/js/2.b3272fdf.chunk.js.LICENSE.txt",
+    "static/css/main.e200cd6a.chunk.css.map": "/merepresenta-game/static/css/main.e200cd6a.chunk.css.map",
+    "static/js/2.27188c21.chunk.js.LICENSE.txt": "/merepresenta-game/static/js/2.27188c21.chunk.js.LICENSE.txt",
     "static/media/App.css": "/merepresenta-game/static/media/Nippo.b2ac25be.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.1bb9f892.js",
+    "static/js/runtime-main.bfe3c583.js",
     "static/css/2.f2512455.chunk.css",
-    "static/js/2.b3272fdf.chunk.js",
-    "static/css/main.c4afe06d.chunk.css",
-    "static/js/main.8a0c8b5b.chunk.js"
+    "static/js/2.27188c21.chunk.js",
+    "static/css/main.e200cd6a.chunk.css",
+    "static/js/main.a87669a8.chunk.js"
   ]
 }
