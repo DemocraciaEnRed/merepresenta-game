@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/merepresenta-game/static/css/main.0a7a23ec.chunk.css",
-    "main.js": "/merepresenta-game/static/js/main.dd270c8b.chunk.js",
-    "main.js.map": "/merepresenta-game/static/js/main.dd270c8b.chunk.js.map",
+    "main.js": "/merepresenta-game/static/js/main.e833535c.chunk.js",
+    "main.js.map": "/merepresenta-game/static/js/main.e833535c.chunk.js.map",
     "runtime-main.js": "/merepresenta-game/static/js/runtime-main.c28c5692.js",
     "runtime-main.js.map": "/merepresenta-game/static/js/runtime-main.c28c5692.js.map",
     "static/css/2.f2512455.chunk.css": "/merepresenta-game/static/css/2.f2512455.chunk.css",
@@ -29,6 +29,6 @@
     "static/css/2.f2512455.chunk.css",
     "static/js/2.0fddbb80.chunk.js",
     "static/css/main.0a7a23ec.chunk.css",
-    "static/js/main.dd270c8b.chunk.js"
+    "static/js/main.e833535c.chunk.js"
   ]
 }
