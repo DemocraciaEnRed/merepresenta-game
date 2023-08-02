@@ -23,7 +23,7 @@
         "topic": "Política Nacional",
         "text": "¿Quién fue el primer ministro de Economía de Néstor Kirchner en 2003?",
         "answer": "Roberto Lavagna",
-        "description": "Lavagna sumió como ministro de Economía y Producción en abril de 2002 durante la Presidencia interina de Duhalde. N. Kirchner lo confirmó en el cargo en 2003. ",
+        "description": "Lavagna asumió como ministro de Economía y Producción en abril de 2002 durante la Presidencia interina de Duhalde. N. Kirchner lo confirmó en el cargo en 2003. ",
         "incorrectAnswers": [
             "Jorge Remes Lenicov",
             "Miguel Peirano"
@@ -33,7 +33,7 @@
         "topic": "Política Nacional",
         "text": "¿Qué vicepresidente renunció en el año 2000?",
         "answer": "Carlos \"Chacho\" Álvarez",
-        "description": "Carlos Álvarez renunció en forma indeclinable a su cargo el 6 de octubre de 2000, habia sido electo sólo un año antes.",
+        "description": "Carlos Álvarez renunció en forma indeclinable a su cargo el 6 de octubre de 2000, había sido electo sólo un año antes.",
         "incorrectAnswers": [
             "Graciela Fernández Meijide",
             "José Machinea"
@@ -41,9 +41,9 @@
     },
     {
         "topic": "Política Nacional",
-        "text": "¿Quién ocupa el juzgado federal con compentencia en las elecciones? ",
-        "answer": "Maria Servini de Cubría",
-        "description": "Servini de Cubría ocupa el Juzgado Federal nro1 desde noviembre de 1990.",
+        "text": "¿Quién ocupa el juzgado federal con competencia en las elecciones? ",
+        "answer": "María Servini de Cubría",
+        "description": "Servini de Cubría ocupa el Juzgado Federal nro 1 desde noviembre de 1990.",
         "incorrectAnswers": [
             "Daniel Rafecas",
             "Marcelo Martínez de Giorgi"
@@ -91,9 +91,9 @@
     },
     {
         "topic": "Política Nacional",
-        "text": "¿Quién es el gobernador de Cordoba?",
+        "text": "¿Quién es el gobernador de Córdoba?",
         "answer": "Juan Schiaretti",
-        "description": "Hasta el 10 de diciembre de 2023, el gobernador de Cordoba es Juan Schiaretti, luego de esa fecha sera sucedido por Martín Llaryora, gobernador electo.",
+        "description": "Hasta el 10 de diciembre de 2023, el gobernador de Córdoba es Juan Schiaretti, luego de esa fecha será sucedido por Martín Llaryora, gobernador electo.",
         "incorrectAnswers": [
             "Martín Llaryora",
             "Luis Juez"
@@ -173,7 +173,7 @@
         "topic": "Política Nacional",
         "text": "¿Qué ministro de la actual Corte Suprema fue convencional constituyente en la reforma de 1994?",
         "answer": "Juan Carlos Maqueda",
-        "description": "En 1994, se reformó la Constitución Nacional. Entre lo integantes de la Convención Constituyentese encontraban los actuales jueces de la Corte Juan Maqueda y Horacio Rosatti.",
+        "description": "En 1994, se reformó la Constitución Nacional. Entre lo integrantes de la Convención Constituyente se encontraban los actuales jueces de la Corte Juan Maqueda y Horacio Rosatti.",
         "incorrectAnswers": [
             "Carlos Rosenkrantz",
             "Ricardo Lorenzetti"
@@ -183,7 +183,7 @@
         "topic": "Política Nacional",
         "text": "¿Cuántos ministerios existen actualmente en la Argentina?",
         "answer": "19",
-        "description": "Incluyendo a la Jefatura de gabinete, Argentina tiene 19 ministerios nacionales. Hasta el 2022 el gobierno de Alberto Fernandez contó con 21 ministerios, pero el numero se redujo con la unificación de los ministerios de Agricultura y Produccion al Ministerio de Economia.",
+        "description": "Incluyendo a la Jefatura de gabinete, Argentina tiene 19 ministerios nacionales. Hasta el 2022 el gobierno de Alberto Fernández contó con 21 ministerios, pero el número se redujo con la unificación de los ministerios de Agricultura y Producción al Ministerio de Economia.",
         "incorrectAnswers": [
             "21",
             "11"
@@ -221,7 +221,7 @@
     },
     {
         "topic": "Política Nacional",
-        "text": "¿Quién es el jefe de gabinente del gobernador Axel Kicillof?",
+        "text": "¿Quién es el jefe de gabinete del gobernador Axel Kicillof?",
         "answer": "Martín Insaurralde",
         "description": "Martín Insaurralde asumió como jefe de gabinete de Axel Kicillof el 20 de septiembre de 2021. Hasta ese entonces estaba a cargo de la intendencia de Lomas de Zamora.",
         "incorrectAnswers": [
@@ -241,11 +241,11 @@
     },
     {
         "topic": "Política Nacional",
-        "text": "¿Quién preside la comision de Presupuesto y Hacienda de la Camara de Diputados?",
+        "text": "¿Quién preside la comisión de Presupuesto y Hacienda de la Cámara de Diputados?",
         "answer": "Carlos Heller",
-        "description": "Carlos Heller, diputado nacional por la Ciudad de Buenos Aires, del Frente de Todos preside la comision desde diciembre 2019. Anteriormente la presidió Luciano Laspina (PRO-Santa Fe). ",
+        "description": "Carlos Heller, diputado nacional por la Ciudad de Buenos Aires, del Frente de Todos preside la comisión desde diciembre 2019. Anteriormente la presidió Luciano Laspina (PRO-Santa Fe). ",
         "incorrectAnswers": [
-            "Roberto Felleti",
+            "Roberto Feletti",
             "Gustavo Marconatto"
         ]
     },
@@ -253,7 +253,7 @@
         "topic": "Política Nacional",
         "text": "¿Quién es el gobernador de la provincia de Salta?",
         "answer": "Gustavo Saenz",
-        "description": "Gustavo Saenz es gobernador de Salta. En mayo de 2023 fue reelecto y gobernara la provincia hasta 2027.\n",
+        "description": "Gustavo Sáenz es gobernador de Salta. En mayo de 2023 fue reelecto y gobernará la provincia hasta 2027.\n",
         "incorrectAnswers": [
             "Emiliano Estrada",
             "Juan Manuel Urtubey"
@@ -283,9 +283,9 @@
         "topic": "Política Nacional",
         "text": "¿Quien es el/la presidente provisional del Senado actualmente?",
         "answer": "Claudia Ledesma Abdala",
-        "description": "Ledesma Abdala es senadora por la provincia de Santiago del Estero y su mandato es 2019-2025. Anteriormente fue diputada nacional (2017-2019) y gobernadora de la provincia (2013-2017)",
+        "description": "Ledesma Abdala es senadora por la provincia de Santiago del Estero y su mandato es 2019-2025. Anteriormente fue diputada nacional (2017-2019) y gobernadora de la provincia (2013-2017).",
         "incorrectAnswers": [
-            "Cristina Fernández de Kirhner",
+            "Cristina Fernández de Kirchner",
             "Ines Imelda Blas"
         ]
     },
@@ -313,7 +313,7 @@
         "topic": "Frases Memorables",
         "text": "¿Quién dijo “que se pierdan cien gobiernos, pero que se salven los principios”?",
         "answer": "Hipólito Yrigoyen",
-        "description": "La frase está atribuida a Hipólito Irigoyen, en 1916, año en que ganó la presidencia argentina",
+        "description": "La frase está atribuida a Hipólito Yrigoyen, en 1916, año en que ganó la presidencia argentina",
         "incorrectAnswers": [
             "Raúl Alfonsín",
             "Ricardo Alfonsín"
@@ -383,7 +383,7 @@
         "topic": "Frases Memorables",
         "text": "¿Quién dijo \"este viejo adversario despide a un amigo\"?",
         "answer": "Ricardo Balbín",
-        "description": "En julio de 1974, Ricardo Balbín pronunció esta frase en el funeral de Perón, sacandosé el sombrero ante su viejo rival político.",
+        "description": "La frase está atribuida a Hipólito Irigoyen, en 1916, año en que ganó la presidencia argentina.",
         "incorrectAnswers": [
             "Juan Domingo Perón",
             "Arturo U. Illia"
@@ -455,7 +455,7 @@
         "answer": "Cristina Kirchner",
         "description": "En 2014,  en un acto en Formosa, Cristina Kirchner se refirió a la diferencia entre la campaña y la gestión.   ",
         "incorrectAnswers": [
-            "Axel Kiciloff",
+            "Axel Kicillof",
             "María Eugenia Vidal"
         ]
     },
@@ -493,7 +493,7 @@
         "topic": "Frases Memorables",
         "text": "¿Quién dijo \"con la democracia se cura, se come y se educa\"?",
         "answer": "Raúl Alfonsín",
-        "description": "Raúl Alfonsín pronunció estas palabras cuando asumía como Presidente, el 10 de diciembre de 1983.",
+        "description": "Raúl Alfonsín pronunció estas palabras cuando asumió como Presidente, el 10 de diciembre de 1983.",
         "incorrectAnswers": [
             "Carlos Menem",
             "Fernando de la Rúa"
@@ -536,7 +536,7 @@
         "description": "Carrió esbozó esta frase durante una reunión del gabinete ampliado de Mauricio Macri en agosto de 2019.",
         "incorrectAnswers": [
             "Mauricio Macri",
-            "Axel Kiciloff"
+            "Axel Kicillof"
         ]
     },
     {
@@ -573,7 +573,7 @@
         "topic": "Frases Memorables",
         "text": "\"Quién dijo \"Qué vocación de colonia, hermano\"?",
         "answer": "Cristina Kirchner",
-        "description": "En el acto de conmemoracion del 25 de Mayo, la actual vicepresidenta usó esta frase para referirse a algunos dirigentes que se pusieron \"contentos\" por la flexibilización de legislaciones que regulan la extracción de litio.",
+        "description": "En el acto de conmemoración del 25 de Mayo, la actual vicepresidenta usó esta frase para referirse a algunos dirigentes que se pusieron \"contentos\" por la flexibilización de legislaciones que regulan la extracción de litio.",
         "incorrectAnswers": [
             "Santiago Cafiero",
             "Aníbal Fernández"
@@ -593,7 +593,7 @@
         "topic": "Legislativas",
         "text": "¿Quienes forman la Asamblea Legislativa?",
         "answer": "Diputados + Senado ",
-        "description": "Asamblea Legislativa es la reunión conjunta y simultánea de la Cámara de Senadores y de la Cámara de Diputados. Se reune los 1ro de marzo de cada año, para dar comienzo a las sesiones. ",
+        "description": "Asamblea Legislativa es la reunión conjunta y simultánea de la Cámara de Senadores y de la Cámara de Diputados. Se reúne los 1ro de marzo de cada año, para dar comienzo a las sesiones. ",
         "incorrectAnswers": [
             "Senado + Gabinete",
             "sólo el Senado"
@@ -603,7 +603,7 @@
         "topic": "Legislativas",
         "text": "¿Quién preside la Cámara de Diputados?",
         "answer": "Cecilia Moreau",
-        "description": "Cecilia Moreau preside la Cámara de Diputados desde el 2 de agosto de 2022, tras la renuncia de Sergio Massa que abando el cargo para asumir como Ministro de Economía.",
+        "description": "Cecilia Moreau preside la Cámara de Diputados desde el 2 de agosto de 2022, tras la renuncia de Sergio Massa que abandonó el cargo para asumir como Ministro de Economía.",
         "incorrectAnswers": [
             "Máximo Kirchner",
             "Anibal Fernández"
@@ -613,7 +613,7 @@
         "topic": "Legislativas",
         "text": "¿Qué período legislativo comenzó el 1 de marzo de 2023?",
         "answer": "141",
-        "description": "Es el período 141. El primero fue en el año 1862, el primer mensaje al Congreso fue dirigido en 1863 por el entonces Presindete Bartolomé Mitre.",
+        "description": "Es el período 141. El primero fue en el año 1862, el primer mensaje al Congreso fue dirigido en 1863 por el entonces Presidente Bartolomé Mitre.",
         "incorrectAnswers": [
             "125",
             "143"
@@ -633,7 +633,7 @@
         "topic": "Legislativas",
         "text": "¿En qué año se inauguró el edificio del Palacio del Congreso?",
         "answer": "En 1906",
-        "description": "La obra se inició en 1897, pero el Palacio fue ianugurado el 12 de mayo de 1906, en la apertura del 45º Período Legislativo. La obra fue concluida en 1946.",
+        "description": "La obra se inició en 1897, pero el Palacio fue inaugurado el 12 de mayo de 1906, en la apertura del 45º Período Legislativo. La obra fue concluida en 1946.",
         "incorrectAnswers": [
             "En 1896",
             "En 1946"
@@ -672,7 +672,7 @@
     {
         "topic": "Legislativas",
         "text": "¿Cuál de los siguientes no pertenece al Poder Legislativo?",
-        "answer": "Sindicatura Genral de la Nación (SIGEN)",
+        "answer": "Sindicatura General de la Nación (SIGEN)",
         "description": "La Sindicatura General de la Nación (SIGEN) es el órgano rector del sistema de control interno de la gestión del sector público y es parte del Poder Ejecutivo .",
         "incorrectAnswers": [
             "Auditoría General de la Nación (AGN)",
@@ -683,7 +683,7 @@
         "topic": "Legislativas",
         "text": "¿Por qué Cámara ingresan las iniciativas populares?",
         "answer": "Diputados",
-        "description": "Las iniciativas populares deben ingresar por la Cámara de Diputados. La Cámara tiene la obligación de tratar el proyecto, para aprobarlo o rechazarlo.",
+        "description": "Las iniciativas populares deben ingresar por la Cámara de Diputados. La Cámara tiene la obligación de tratar el proyecto para aprobarlo o rechazarlo.",
         "incorrectAnswers": [
             "Senado",
             "Se sortea"
@@ -863,7 +863,7 @@
         "topic": "Legislativas",
         "text": "¿Cuál fue el último presidente no bonaerense de la Cámara de Diputados?",
         "answer": "Eduardo Fellner",
-        "description": "El útlmo presidente no bonaerense de la Cámara fue Eduardo Fellner de Jujuy. Luego lo sucedieron los bonaerenses Julián Dominguez, Emilio Monzó, Sergio Massa y, ahora, Cecilia Moreau.",
+        "description": "El último presidente no bonaerense de la Cámara fue Eduardo Fellner de Jujuy. Luego lo sucedieron los bonaerenses Julián Domínguez, Emilio Monzó, Sergio Massa y, ahora, Cecilia Moreau.",
         "incorrectAnswers": [
             "Julián Domínguez",
             "Eduardo Camaño"
@@ -873,7 +873,7 @@
         "topic": "Legislativas",
         "text": "¿Quién presidió la Cámara de Diputados entre 2019 y 2022?",
         "answer": "Sergio Massa",
-        "description": "Sergio Massa fue el presidente de la Cámara de Diputados desde diciembre de 2019 al 2022. Fue sucedido por Cecilia Moreau, cuando Massa dejo su puesto para ocuparse del Ministerio de Economía. ",
+        "description": "Sergio Massa fue el presidente de la Cámara de Diputados desde diciembre de 2019 a 2022. Fue sucedido por Cecilia Moreau, cuando Massa dejó su puesto para ocuparse del Ministerio de Economía. ",
         "incorrectAnswers": [
             "Emilio Monzo",
             "Cristina Kirchner"
@@ -893,7 +893,7 @@
         "topic": "Latinoamérica",
         "text": "¿Quién es el presidente de Ecuador?",
         "answer": "Guillermo Lasso",
-        "description": "Guillermo Lasso es el presidente de Ecuador desde julio de 2021, luego de ganar por balotaje con el 52,36% de votos. El 20 de Agosto se llevaran a cabo elecciones anticipadas que definirán el próximo presidente.",
+        "description": "Guillermo Lasso es el presidente de Ecuador desde julio de 2021, luego de ganar por balotaje con el 52,36% de votos. El 20 de Agosto se llevarán a cabo elecciones anticipadas que definirán el próximo presidente.",
         "incorrectAnswers": [
             "Lenín Moreno",
             "Rafael Correa"
@@ -963,7 +963,7 @@
         "topic": "Latinoamérica",
         "text": "¿Qué país de Centroamérica también elige presidente en 2023?",
         "answer": "Guatemala",
-        "description": "Guatemala elige presidente durante el 2023. El domingo 25 de junio 2023 votaron en primera vuelta. Ninguno de los candidatos logró alcanzar los votos necesario, por lo cual, el 20 de agosto, Sandra Torres de Unidad Nacional de la Esperanza (UNE)  y Bernardo Arévalo de Movimiento Semilla se enfrentaran en una segunda vuelta electoral.",
+        "description": "Guatemala elige presidente durante el 2023. El domingo 25 de junio 2023 votaron en primera vuelta. Ninguno de los candidatos logró alcanzar los votos necesario, por lo cual, el 20 de agosto, Sandra Torres de Unidad Nacional de la Esperanza (UNE)  y Bernardo Arévalo de Movimiento Semilla se enfrentarán en una segunda vuelta electoral.",
         "incorrectAnswers": [
             "Costa Rica",
             "El Salvador"
@@ -1101,9 +1101,9 @@
     },
     {
         "topic": "Latinoamérica",
-        "text": "Tras asumir Lula Da Silva, ¿Que edificios de gobieron ocuparon ilegalmente un grupo de manifestantes simpatizantes a Bolsonaro?",
+        "text": "Tras asumir Lula Da Silva, ¿Que edificios de gobierno ocuparon ilegalmente un grupo de manifestantes simpatizantes a Bolsonaro?",
         "answer": "Todas son correctas",
-        "description": "Los edificios ilegalemente ocupados fueron el Congreso, el Palacio Presidencial de Planalto, y el Tribunal Supremo, ubicados en Brasilia.",
+        "description": "Los edificios ilegalmente ocupados fueron el Congreso, el Palacio Presidencial de Planalto, y el Tribunal Supremo, ubicados en Brasilia.",
         "incorrectAnswers": [
             "El Congreso",
             "El Palacio Presidencial de Planalto"
@@ -1111,9 +1111,9 @@
     },
     {
         "topic": "Latinoamérica",
-        "text": "¿En qué paises latinoamericanos no existe la figura de vicepresidente/a?",
+        "text": "¿En qué países latinoamericanos no existe la figura de vicepresidente/a?",
         "answer": "Chile y México",
-        "description": "En Chile y Mexico no existe la figura de Vicepresidencia. Por lo tanto, las sucesiones son mediadas por el órgano legislativo.",
+        "description": "En Chile y México no existe la figura de Vicepresidencia. Por lo tanto, las sucesiones son mediadas por el órgano legislativo.",
         "incorrectAnswers": [
             "México y Panamá",
             "Todos los países latinoamericanos tienen vicepresidente/a"
@@ -1191,7 +1191,7 @@
     },
     {
         "topic": "Ejecutivo",
-        "text": "¿Cómo se elijen los ministros de un gobierno?",
+        "text": "¿Cómo se eligen los ministros de un gobierno?",
         "answer": "Los designa el presidente",
         "description": "Los designa el presidente.",
         "incorrectAnswers": [
@@ -1201,9 +1201,9 @@
     },
     {
         "topic": "Ejecutivo",
-        "text": "¿Cuántos años fue presidente Nestor Kirchner?",
+        "text": "¿Cuántos años fue presidente Néstor Kirchner?",
         "answer": "4",
-        "description": "Nestor Kirchner fue presidente por 4 años. Desde el 25 de marzo de 2003 hasta el 10 de diciembre de 2007.",
+        "description": "Néstor Kirchner fue presidente por 4 años. Desde el 25 de marzo de 2003 hasta el 10 de diciembre de 2007.",
         "incorrectAnswers": [
             "8",
             "6"
@@ -1211,9 +1211,9 @@
     },
     {
         "topic": "Ejecutivo",
-        "text": "¿Bajo la presidencia de quién se reestatizó YPF?",
-        "answer": "Cristina Fernandez de Kirchner",
-        "description": "En 2012 Cristina Fernández puso en marcha ayer el plan oficial para que el Estado recupere el control de YPF, mediante la expropiación de un 51% de las acciones de la española Repsol. Fue el Congreso Nacional quien finalmente aprobo la re estatización.",
+        "text": "¿Bajo la presidencia de quién se re estatizó YPF?",
+        "answer": "Cristina Fernández de Kirchner",
+        "description": "En 2012 Cristina Fernández puso en marcha ayer el plan oficial para que el Estado recupere el control de YPF, mediante la expropiación de un 51% de las acciones de la española Repsol. Fue el Congreso Nacional quien finalmente aprobó la re estatización.",
         "incorrectAnswers": [
             "Nestor Kirchner",
             "Mauricio Macri"
@@ -1221,12 +1221,12 @@
     },
     {
         "topic": "Ejecutivo",
-        "text": "¿Quién de estos politicos no fue presidente?",
+        "text": "¿Quién de estos políticos no fue presidente?",
         "answer": "Patricia Bullrich",
         "description": "Patricia Bullrich no fue presidenta. Actualmente es una de las precandidatas por el espacio de Juntos por el Cambio. ",
         "incorrectAnswers": [
             "Eduardo Duhalde",
-            "Adolfo Rodríguez Saa"
+            "Adolfo Rodríguez Saá"
         ]
     },
     {
@@ -1251,9 +1251,9 @@
     },
     {
         "topic": "Ejecutivo",
-        "text": "¿Cuantos años fue presidente Raul Alfonsin?",
+        "text": "¿Cuantos años fue presidente Raúl Alfonsín?",
         "answer": "6",
-        "description": "Raul Alfonsin fue presidente durante 6 años, de 1983 a 1989.. Su salida del poder se adelantó unos meses, con Carlos Menem ya electo presidente.",
+        "description": "Raúl Alfonsín fue presidente durante 6 años, de 1983 a 1989.. Su salida del poder se adelantó unos meses, con Carlos Menem ya electo presidente.",
         "incorrectAnswers": [
             "4",
             "8"
@@ -1261,11 +1261,11 @@
     },
     {
         "topic": "Ejecutivo",
-        "text": "Desde el retorno democratico, ¿quién de estos presidentes fue el que más tiempo goberno? ",
+        "text": "Desde el retorno democrático, ¿quién de estos presidentes fue el que más tiempo gobernó? ",
         "answer": "Carlos Menem",
-        "description": "El presidente que más tiempo gobernó desde el retorno democrático fue Carlos Menem. Estuvo en el cargo por 10 años y 5 meses",
+        "description": "El presidente que más tiempo gobernó desde el retorno democrático fue Carlos Menem. Estuvo en el cargo por 10 años y 5 meses.",
         "incorrectAnswers": [
-            "Crisitna Fernandez de Kirchner",
+            "Cristina Fernández de Kirchner",
             "Raul Alfonsin"
         ]
     },
@@ -1273,7 +1273,7 @@
         "topic": "Ejecutivo",
         "text": "¿Cuál de estos presidentes no es abogado?",
         "answer": "Mauricio Macri",
-        "description": "Mauricio Macri no es abogado, estudio Ingenieria Civil.",
+        "description": "Mauricio Macri no es abogado, estudió Ingeniería Civil.",
         "incorrectAnswers": [
             "Raul Alfonsin",
             "Nestor Kirchner"
@@ -1313,7 +1313,7 @@
         "topic": "Ejecutivo",
         "text": "¿En qué año se celebraron las primeras elecciones presidenciales en Argentina con el voto secreto y obligatorio?",
         "answer": "1916",
-        "description": "El domingo 2 de abril de 1916,  tras la sanción en 1912 de la Ley Saen Peña que estableció el voto, secreto y obligatorio, fue la primera vez que los argentinos eligieron presidente en las urnas",
+        "description": "El domingo 2 de abril de 1916,  tras la sanción en 1912 de la Ley Sáenz Peña que estableció el voto, secreto y obligatorio, fue la primera vez que los argentinos eligieron presidente en las urnas",
         "incorrectAnswers": [
             "1816",
             "1853"
@@ -1323,7 +1323,7 @@
         "topic": "Ejecutivo",
         "text": "¿Cuál es el requisito de edad mínima para ser presidente en Argentina?",
         "answer": "30 años",
-        "description": "Según el articulo 55 de la Constitución, la edad minima para postularse a Presidente es de de 30 años.",
+        "description": "Según el artículo 55 de la Constitución, la edad mínima para postularse a Presidente es de de 30 años.",
         "incorrectAnswers": [
             "35 años",
             "40 años"
@@ -1331,17 +1331,17 @@
     },
     {
         "topic": "Ejecutivo",
-        "text": "¿Quien de estos no fue parte de los 4 presidentes que hubo en 11 días durante el 2001 tras la renuncia de Fernado De La Rua?",
+        "text": "¿Quien de estos no fue parte de los 4 presidentes que hubo en 11 días durante el 2001 tras la renuncia de Fernando De La Rúa?",
         "answer": "Carlos Álvarez",
         "description": "El 20 de diciembre de 2001 renunció a su cargo Fernando de la Rúa, tras su salida, le sucedieron cuatro presidentes en once días: Ramón Puerta, Adolfo Rodríguez Saá, Eduardo Camaño y Eduardo Duhalde.",
         "incorrectAnswers": [
             "Eduardo Duhalde",
-            "Adolfo Rodríguez Saa"
+            "Adolfo Rodríguez Saá"
         ]
     },
     {
         "topic": "Ejecutivo",
-        "text": "¿Cual fue el presidente que anunció la salida del Plan de Convertibilidad?",
+        "text": "¿Cuál fue el presidente que anunció la salida del Plan de Convertibilidad?",
         "answer": "Eduardo Duhalde",
         "description": " Eduardo Duhalde en enero del 2002 anunció el fin de la Convertibilidad luego de casi 11 años de vigencia.",
         "incorrectAnswers": [
@@ -1353,7 +1353,7 @@
         "topic": "Ejecutivo",
         "text": "¿Quién fue el primer presidente argentino en ser reelecto después de la reforma constitucional de 1994?",
         "answer": "Carlos Menem",
-        "description": "Tras la reformar de la Constitución en 1994 que instauró nuevamente el período de cuatro años con una reelección, Menem logró ser reelecto hasta 1999. ",
+        "description": "Tras la reforma de la Constitución en 1994 que instauró nuevamente el período de cuatro años con una reelección, Menem logró ser reelecto hasta 1999. ",
         "incorrectAnswers": [
             "Cristina Fernández de Kirchner",
             "Néstor Kirchner"
@@ -1373,7 +1373,7 @@
         "topic": "Ejecutivo",
         "text": "¿Quién fue el primer presidente argentino en asumir el cargo tras la vuelta a la democracia en 1983?",
         "answer": "Raúl Alfonsín",
-        "description": "Raul Alfonsin obtiene el 51% de los votos y el 10 de diciembre de 1983 asume como presidente, instaurando el periodo democratico que continua hasta la actualidad.",
+        "description": "Raúl Alfonsín obtiene el 51% de los votos y el 10 de diciembre de 1983 asume como presidente, instaurando el periodo democrático que continua hasta la actualidad.",
         "incorrectAnswers": [
             "Carlos Menem",
             "Juan Domingo Perón"
@@ -1393,7 +1393,7 @@
         "topic": "Ejecutivo",
         "text": "¿Quién fue el presidente argentino que restableció las relaciones diplomáticas con el Reino Unido después de la Guerra de las Malvinas?",
         "answer": "Carlos Menem",
-        "description": "En 1998, Carlos Menem se reunió con la Reina Isabel II y fue el  fue el primer presidente en visitar Londres luego del estallido del conflicto bélico por las Islas Malvinas en 1982.",
+        "description": "En 1998, Carlos Menem se reunió con la Reina Isabel II y fue el primer presidente en visitar Londres luego del estallido del conflicto bélico por las Islas Malvinas en 1982.",
         "incorrectAnswers": [
             " Raúl Alfonsín",
             "Fernando de la Rúa"
@@ -1413,7 +1413,7 @@
         "topic": "Ejecutivo",
         "text": "¿Cuál es la diferencia de votos que debe obtener un candidato para convertirse el presidente?",
         "answer": "Ambas son correctas. ",
-        "description": "Ambas son correctas. Según el Código Electoral Nacional: \"La fórmula que obtuviese más del 45 % de los votos se convertirá en ganadora en la primera vuelta. En su defecto, aquella que alcance el 40% y se distancie por -al menos- un 10 % respecto de la lista que quede en el segundo lugar\"",
+        "description": "Ambas son correctas. Según el Código Electoral Nacional: \"La fórmula que obtuviese más del 45 % de los votos se convertirá en ganadora en la primera vuelta. En su defecto, aquella que alcance el 40% y se distancie por -al menos- un 10 % respecto de la lista que quede en el segundo lugar\".",
         "incorrectAnswers": [
             "El 40%  de los votos y una distancia de un 10 % respecto al segundo lugar.",
             "El 45% del total de los votos"
@@ -1423,10 +1423,10 @@
         "topic": "Ejecutivo",
         "text": "¿Cuál de estos fundadores de la Unión Cívica de la Juventud fue luego presidente del país?",
         "answer": "Carlos Pellegrini ",
-        "description": "Pellegrini asumió la presidencia del país luego de la renuncia de Miguel Juárez Celman tras los sucesos conocidos como Revolución del Parque. Pellegrini, que ocupaba la vicepresidencia, asumió hasta completar el mandato en 1892",
+        "description": "Pellegrini asumió la presidencia del país luego de la renuncia de Miguel Juárez Celman tras los sucesos conocidos como Revolución del Parque. Pellegrini, que ocupaba la vicepresidencia, asumió hasta completar el mandato en 1892.",
         "incorrectAnswers": [
             "Leandro N. Alem",
-            "Bernardo de Yrigoyen"
+            "Bernardo de Irigoyen"
         ]
     },
     {
@@ -1443,9 +1443,9 @@
         "topic": "Ejecutivo",
         "text": "¿Quién fue la primera mujer presidente de Argentina?",
         "answer": "María Estela Martínez de Perón",
-        "description": "María Estela Martínez de Perón, electa vicepresidenta, asumió la presidencia constitucional en 1974 tras el fallecimiento del presidente Peron.",
+        "description": "María Estela Martínez de Perón, electa vicepresidenta, asumió la presidencia constitucional en 1974 tras el fallecimiento del presidente Perón.",
         "incorrectAnswers": [
-            "Cristina Fernandez de Kirchner ",
+            "Cristina Fernández de Kirchner ",
             "Maria Eugenia Vidal"
         ]
     },
@@ -1483,7 +1483,7 @@
         "topic": "Elecciones 2023",
         "text": "¿Cuántas provincias eligen Diputados?",
         "answer": "23",
-        "description": "Hay elecciones en 24 distritos electorales, pero solo 23 de ellos son provincias. Si bien coloquialmente se menciona a la Ciudad Autónoma de Buenos Aires como una provinca, estrictamente no lo es. Tramposa la pregunta, lo lamentamos.",
+        "description": "Hay elecciones en 24 distritos electorales, pero sólo 23 de ellos son provincias. Si bien coloquialmente se menciona a la Ciudad Autónoma de Buenos Aires como una provincia, estrictamente no lo es. Tramposa la pregunta, lo lamentamos.",
         "incorrectAnswers": [
             "24",
             "8"
@@ -1523,7 +1523,7 @@
         "topic": "Elecciones 2023",
         "text": "¿Cuál de las siguientes provincias tiene más bancas en la Cámara de Diputados?",
         "answer": "Mendoza",
-        "description": "A la provincia de Mendoza le corresponden 10 bancas, mientras que a Entre Rios tiene 9 bancas y a Jujuy 6. ",
+        "description": "A la provincia de Mendoza le corresponden 10 bancas, mientras que a Entre Ríos tiene 9 bancas y a Jujuy 6. ",
         "incorrectAnswers": [
             "Entre Ríos",
             "Jujuy"
@@ -1593,7 +1593,7 @@
         "topic": "Elecciones 2023",
         "text": "¿Cuál es la pena si siendo autoridad de mesa no te presentás?",
         "answer": "Prisión de 6 meses a 2 años",
-        "description": "Si fuiste desgnada-o autoridad de mesa, presentarse es una obligación cívica.  No presentarse es un delito electoral que tiene una pena de prisión de seis meses a dos años.",
+        "description": "Si fuiste designada-o autoridad de mesa, presentarse es una obligación cívica.  No presentarse es un delito electoral que tiene una pena de prisión de seis meses a dos años.",
         "incorrectAnswers": [
             "Nada, no hay",
             "Pagar una multa"
@@ -1633,7 +1633,7 @@
         "topic": "Elecciones 2023",
         "text": "¿Cuánto dura el mandato de un/a diputado/a de la Nación?",
         "answer": "4 años",
-        "description": "Las y los diputados tienen un mandato de 4 años",
+        "description": "Las y los diputados tienen un mandato de 4 años.",
         "incorrectAnswers": [
             "6 años",
             "5 años"
@@ -1643,7 +1643,7 @@
         "topic": "Elecciones 2023",
         "text": "¿Cuánto dura el mandato de un/a senador/a de la Nación?",
         "answer": "6 años",
-        "description": "Las y los senadores tienen un mandato de 6 años",
+        "description": "Las y los senadores tienen un mandato de 6 años.",
         "incorrectAnswers": [
             "4 años",
             "Vitalicio"
@@ -1681,7 +1681,7 @@
     },
     {
         "topic": "Elecciones 2023",
-        "text": "¿Cúantos bancas en la Cámara de Diputados renueva la provincia de Buenos Aires cada 2 años?",
+        "text": "¿Cuántos bancas en la Cámara de Diputados renueva la provincia de Buenos Aires cada 2 años?",
         "answer": "35",
         "description": "Si bien la provincia de Buenos Aires tiene 70 bancas, cada dos años se renueva por mitades. Así, en 2023 se elegirán 35 bancas en la Cámara.",
         "incorrectAnswers": [
@@ -1723,7 +1723,7 @@
         "topic": "Elecciones 2023",
         "text": "¿Por qué distrito se postula Eduardo \"Wado\" de Pedro?",
         "answer": "Buenos Aires",
-        "description": "Eduardo \"Wado\" de Pedro es precandidato a senador por la provincia de Buenos Aires.",
+        "description": "Eduardo \"Wado\" de Pedro es pre candidato a senador por la provincia de Buenos Aires.",
         "incorrectAnswers": [
             "Córdoba ",
             "Santa Fe"
@@ -1763,7 +1763,7 @@
         "topic": "Elecciones 2023",
         "text": "¿Quien acompaña en la precandidatura a la vicepresidencia en la fórmula encabezada por Patricia Bullrich?",
         "answer": "Luis Petri",
-        "description": "Luis Petri es el precandidato a vicepresidente en la formula encabezada por Patricia Bullrich.",
+        "description": "Luis Petri es el precandidato a vicepresidente en la fórmula encabezada por Patricia Bullrich.",
         "incorrectAnswers": [
             "Gerardo Morales",
             "Elisa Carrió"
