@@ -24,29 +24,29 @@ const resultsByScore = [
     max: 4,
     meme: bad,
     color: "FB2D11",
-    description: "Bueno, no importa este resultado, lo importante es que te prepares para las Elecciones Generales 2021.",
-    secondayDescription: "Pasá por #MeRepresenta para saber todo sobre las Elecciones Generales 2021"
+    description: "Bueno, no importa este resultado, lo importante es que te prepares para las Elecciones Generales 2023.",
+    secondayDescription: "Pasá por #MeRepresenta para saber todo sobre las Elecciones Generales 2023"
   },
   {
     max: 6,
     meme: good,
     color: "EEFF26",
     description: "Tenés poco conocimiento de política argentina, y en noviembre tenés que votar.",
-    secondayDescription: "Pasá por #MeRepresenta para saber todo sobre las Elecciones Generales 2021"
+    secondayDescription: "Pasá por #MeRepresenta para saber todo sobre las Elecciones Generales 2023"
   },
   {
     max: 8,
     meme: veryGood,
     color: "F7A334",
     description: "Bien, se nota que seguís la política argentina.",
-    secondayDescription: "Para saber más sobre las Elecciones Generales 2021, entrá a #MeRepresenta"
+    secondayDescription: "Para saber más sobre las Elecciones Generales 2023, entrá a #MeRepresenta"
   },
   {
     max: 10,
     meme: excellent,
     color: "32F991",
     description: "Felicitaciones, tenés mucho conocimiento de la política argentina.",
-    secondayDescription: "Para saber aún más sobre las Elecciones Generales 2021, entrá a #MeRepresenta"
+    secondayDescription: "Para saber aún más sobre las Elecciones Generales 2023, entrá a #MeRepresenta"
   }
 ];
 
