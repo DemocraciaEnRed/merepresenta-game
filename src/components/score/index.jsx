@@ -24,29 +24,29 @@ const resultsByScore = [
     max: 4,
     meme: bad,
     color: "FB2D11",
-    description: "Bueno, no importa este resultado, lo importante es que te prepares para las Elecciones Generales 2023.",
-    secondayDescription: "Pasá por #MeRepresenta para saber todo sobre las Elecciones Generales 2023"
+    description: "Argentina perdió el primer partido del Mundial y salió campeón. Vos podés repetir la historia.",
+    secondayDescription: "Pasá por #MeRepresenta para saber todo sobre las Elecciones 2023"
   },
   {
     max: 6,
     meme: good,
     color: "EEFF26",
-    description: "Tenés poco conocimiento de política argentina, y en noviembre tenés que votar.",
-    secondayDescription: "Pasá por #MeRepresenta para saber todo sobre las Elecciones Generales 2023"
+    description: "Aprobás raspando.",
+    secondayDescription: "Pero como votar, tenés que votar, mejor entrá a #MeRepresenta para saber todo sobre las Elecciones 2023"
   },
   {
     max: 8,
     meme: veryGood,
     color: "F7A334",
-    description: "Bien, se nota que seguís la política argentina.",
-    secondayDescription: "Para saber más sobre las Elecciones Generales 2023, entrá a #MeRepresenta"
+    description: "Sin duda, tenés altas chances de ganar en la discusión familiar del domingo.",
+    secondayDescription: "Para saber más sobre las Elecciones 2023, entrá a #MeRepresenta"
   },
   {
     max: 10,
     meme: excellent,
     color: "32F991",
-    description: "Felicitaciones, tenés mucho conocimiento de la política argentina.",
-    secondayDescription: "Para saber aún más sobre las Elecciones Generales 2023, entrá a #MeRepresenta"
+    description: "Mis respetos: sos un gran conocedor de la política argentina 👏.",
+    secondayDescription: "Para saber aún más sobre las Elecciones 2023, entrá a #MeRepresenta"
   }
 ];
 
@@ -98,7 +98,7 @@ const Score = ({ score, total, setPlayAgain }) => {
                 { secondayDescription && <p>{_.toUpper(secondayDescription)}</p> }
               </div>
               <Button className="col-md-3 col-sm-4 col-10 play-again" variant="outline-light" onClick={setPlayAgain}>VOLVER A JUGAR</Button>
-              <p>o</p>
+              <p>ó</p>
               <p className="more-info">Encontrá más info sobre las elecciones en: </p>
               <Button target="_blank" href="https://merepresenta.info/" className="col-md-3 col-sm-4 col-10 merepresenta-button" variant="light">#MEREPRESENTA</Button>
               <p>Para conocer lo que hacemos seguinos en:</p>
