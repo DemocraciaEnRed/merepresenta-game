@@ -16,6 +16,9 @@ import good from '../../images/scoreMemes/good.png';
 import veryGood from '../../images/scoreMemes/veryGood.png';
 import excellent from '../../images/scoreMemes/excellent.png';
 import vof from '../../images/vof.png';
+import compas from '../../images/compas.png';
+import quienDijo from '../../images/quiendijo.png';
+import espectrometro from '../../images/espectrometro.png'
 // import { ReactComponent as InstagramLogo } from "../../images/instagramLogo.svg";
 // import { ReactComponent as TwitterLogo } from "../../images/twitterLogo.svg";
 import { ReactComponent as TwitterIcono } from "../../images/iconoX.svg";
@@ -139,7 +142,16 @@ const Score = ({ score, total, setPlayAgain }) => {
                 <Button className="col-md-3 col-sm-4 col-10 play-again" variant="outline-light" onClick={setPlayAgain}>VOLVER A JUGAR</Button>
                 <p className="call-to">Te invitamos a Jugar a:</p> 
                 <a href="https://verdaderofalso.merepresenta.info/" >
-                  <img className="vof" src={vof} alt="Jugar a verdadero o falso" />
+                  <img className="game-images" src={vof} alt="Jugar a verdadero o falso" />
+                </a>
+                <a href="https://quiendijo.merepresenta.info/" >
+                  <img className="game-images" src={quienDijo} alt="Jugar a quién dijo" />
+                </a>
+                <a href="https://compaspolitico.merepresenta.info/" >
+                  <img className="game-images" src={compas} alt="Jugar a compas politico" />
+                </a>
+                <a href="https://dequelado.merepresenta.info/" >
+                  <img className="game-images" src={espectrometro} alt="Jugar a de que lado estan" />
                 </a>
               </div>
               <p>ó</p>

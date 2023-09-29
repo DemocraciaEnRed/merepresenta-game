@@ -64,8 +64,9 @@
   font-weight: 700;
   text-transform: uppercase;
 }
-.vof {
+.game-images {
   height: 200px;
+  margin: .5rem;
 }
 
 @keyframes fade {
