@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.0608210a.chunk.css",
-    "main.js": "/static/js/main.84d2cb39.chunk.js",
-    "main.js.map": "/static/js/main.84d2cb39.chunk.js.map",
+    "main.css": "/static/css/main.b751b33b.chunk.css",
+    "main.js": "/static/js/main.50076f65.chunk.js",
+    "main.js.map": "/static/js/main.50076f65.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.36bb51c2.js",
     "runtime-main.js.map": "/static/js/runtime-main.36bb51c2.js.map",
     "static/css/2.46b964d6.chunk.css": "/static/css/2.46b964d6.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.a17d5c48.chunk.js.map": "/static/js/3.a17d5c48.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.46b964d6.chunk.css.map": "/static/css/2.46b964d6.chunk.css.map",
-    "static/css/main.0608210a.chunk.css.map": "/static/css/main.0608210a.chunk.css.map",
+    "static/css/main.b751b33b.chunk.css.map": "/static/css/main.b751b33b.chunk.css.map",
     "static/js/2.e4dd128c.chunk.js.LICENSE.txt": "/static/js/2.e4dd128c.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/Nippo.b2ac25be.woff",
     "static/media/bad.7b70d2dc.png": "/static/media/bad.7b70d2dc.png",
@@ -28,18 +28,19 @@
     "static/media/initialLoadingBackground.783cee05.svg": "/static/media/initialLoadingBackground.783cee05.svg",
     "static/media/meRepresentaIcon.7dc45cc8.svg": "/static/media/meRepresentaIcon.7dc45cc8.svg",
     "static/media/meRepresentaLogo.a8711598.svg": "/static/media/meRepresentaLogo.a8711598.svg",
+    "static/media/quiendijo.e894b819.png": "/static/media/quiendijo.e894b819.png",
     "static/media/roundBackground.fd7c6a56.svg": "/static/media/roundBackground.fd7c6a56.svg",
     "static/media/scoreBackground.f7d2069b.svg": "/static/media/scoreBackground.f7d2069b.svg",
     "static/media/secondLoadingBackground.6a44161e.svg": "/static/media/secondLoadingBackground.6a44161e.svg",
     "static/media/thirdLoadingBackground.3e8b8891.svg": "/static/media/thirdLoadingBackground.3e8b8891.svg",
     "static/media/veryGood.7f397513.png": "/static/media/veryGood.7f397513.png",
-    "static/media/vof.cb8fb09c.png": "/static/media/vof.cb8fb09c.png"
+    "static/media/vof.0d77a0d9.png": "/static/media/vof.0d77a0d9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.36bb51c2.js",
     "static/css/2.46b964d6.chunk.css",
     "static/js/2.e4dd128c.chunk.js",
-    "static/css/main.0608210a.chunk.css",
-    "static/js/main.84d2cb39.chunk.js"
+    "static/css/main.b751b33b.chunk.css",
+    "static/js/main.50076f65.chunk.js"
   ]
 }
